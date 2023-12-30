@@ -13,6 +13,8 @@ STF-solidity 是Steven WTF solidity缩写。
 - [solidity官网](https://solidity.readthedocs.io/en/v0.5.3/) ：solidity官网
 - [remix](https://remix.ethereum.org/#optimize=false&version=soljson-v0.5.3+commit.10d17f24.js) ：solidity在线编译器
 - [etherscan](https://etherscan.io/) ：以太坊浏览器
+- [BNB测试链主网币获取地址](https://www.bnbchain.org/en/testnet-faucet) ：BNB测试网络水龙头
+- [BSC测试链浏览器](https://testnet.bscscan.com) ：BSC测试链浏览器
 
 
 ## 概念了解
