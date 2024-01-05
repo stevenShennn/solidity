@@ -15,6 +15,7 @@ STF-solidity 是Steven WTF solidity缩写。
 - [etherscan](https://etherscan.io/) ：以太坊浏览器
 - [BNB测试链主网币获取地址](https://www.bnbchain.org/en/testnet-faucet) ：BNB测试网络水龙头
 - [BSC测试链浏览器](https://testnet.bscscan.com) ：BSC测试链浏览器
+- [Ganache](https://trufflesuite.com/ganache/) ：本地ETH测试节点搭建,这个是用来本地调试合约
 
 
 ## 概念了解
